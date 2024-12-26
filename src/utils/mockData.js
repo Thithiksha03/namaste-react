@@ -1,4 +1,4 @@
-const resList = [ {
+const resList = [{
     "card": {
       "card": {
         "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
@@ -13,7 +13,7 @@ const resList = [ {
             "Kebabs",
             "Biryani"
           ],
-          "avgRating": "3.8",
+          "avgRating": 4.5,
           "parentId": "475",
           "avgRatingString": "4.5",
           "totalRatingsString": "18K+",
@@ -699,7 +699,7 @@ const resList = [ {
             "Chinese",
             "North Indian"
           ],
-          "avgRating": "3.6",
+          "avgRating": 4.4,
           "parentId": "332",
           "avgRatingString": "4.4",
           "totalRatingsString": "8.5K+",
@@ -937,6 +937,6 @@ const resList = [ {
       }
     }
     
-  }]
+  }];
 
   export default resList;
