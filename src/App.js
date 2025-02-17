@@ -32,7 +32,7 @@ useEffect(() => {
     <div className="app">
         <Header/>
         <Outlet/>
-    </div>);
+    </div>;
     </UserContext.Provider>
     </Provider>
     );
